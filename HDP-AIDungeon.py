@@ -7,7 +7,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 
-# 确保结果文件夹存在
+# 确保结果文件夹存
 results_folder = 'results'
 os.makedirs(results_folder, exist_ok=True)
 
