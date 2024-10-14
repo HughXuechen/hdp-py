@@ -22,7 +22,7 @@ def read_documents(folder_path):
                 file_names.append(filename)
     return documents, file_names
 
-folder_path = 'data/processed/final-txt-papers'
+folder_path = 'demo-data'
 documents, file_names = read_documents(folder_path)
 
 # 2. 文本向量化
