@@ -1,1 +1,0 @@
-command command bannedtokens iterable comment comment comment bannedtokens iterable started started comment

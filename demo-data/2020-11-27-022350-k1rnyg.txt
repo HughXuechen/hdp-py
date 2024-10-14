@@ -1,1 +1,0 @@
-srd scenario srd system open scenario srd system used open author used author private use private use
